@@ -1,0 +1,5 @@
+.idea/
+/var
+users/vendor
+users/var
+blockchain/*.log
