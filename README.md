@@ -50,7 +50,7 @@ tu navegador favorito. Deberías obtener una UI como esta:
 ![elasticsearch](./images/elascticsearch.png)
 
 Por otro lado y para verificar que Kibana está funcionando correctamente, puedes hacerlo accediendo a su puerto
-standard (`http://localhost:9200`) con nuestro navegador. Deberías ver algo tal que:
+standard (`http://localhost:5601`) con nuestro navegador. Deberías ver algo tal que:
 ![home](./images/home.png)
 
 ## Accediendo a nuestras API's
